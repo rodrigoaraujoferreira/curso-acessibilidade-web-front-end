@@ -34,7 +34,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Testar seu site usando o NVDA
 - Detalhes no código podem impactar as pessoas
 - Técnicas front-end que podem ajudar usuários
-
-## 🌐 Link 
-
-<a href="https://rfweb.com.br/app/nlw-copa/card/card.html" target="_blank">Clique aqui para acessar a versão atual do projeto.</a>
